@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/TPLwMr9/292876415-177312141326384-1060857342004243853-n.jpgg" width="600" height="300"/>
+  <img src="https://i.ibb.co/myPM6KP/292876415-177312141326384-1060857342004243853-n.jpg" width="600" height="300"/>
 </div>
